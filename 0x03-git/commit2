@@ -1,1 +1,5 @@
-My 2nd commit
+[master 57a9002] Starting to code today, so cool
+ 3 files changed, 18 insertions(+)
+ create mode 100644 0x03-git/2nd
+ create mode 100644 0x03-git/bREDAME.md
+ create mode 100644 0x03-git/commit2
