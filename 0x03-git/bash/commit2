@@ -1,12 +1,4 @@
-On branch update_script
-Changes not staged for commit:
-  (use "git add <file>..." to update what will be committed)
-  (use "git restore <file>..." to discard changes in working directory)
-	modified:   commit3
-	modified:   ../commit2
-
-Untracked files:
-  (use "git add <file>..." to include in what will be committed)
-	commit2
-
-no changes added to commit (use "git add" and/or "git commit -a")
+[update_script 3f19577] My personal work
+ 2 files changed, 6 insertions(+), 18 deletions(-)
+ copy 0x03-git/bash/{commit3 => commit2} (87%)
+ rewrite 0x03-git/bash/commit3 (100%)
